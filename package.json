@@ -1,0 +1,15 @@
+{
+  "name": "twice",
+  "version": "1.0.0",
+  "description": "Twice Landing Page Advance ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass -watch sass/main.scss css/main.css"
+  },
+  "author": "ThanhTai",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
